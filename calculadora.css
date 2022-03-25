@@ -1,0 +1,21 @@
+#resposta {
+  border: 5px black;
+}
+.tela {
+font-size: 30px;
+    height: 30px;
+    background-color: lightgreen;
+    border: solid 2px black;
+    
+}
+.calculadora{
+    display: inline-block;
+    background-color: gray;
+    padding: 5px;
+
+}
+
+.linha{
+
+
+}
